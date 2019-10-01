@@ -627,7 +627,7 @@ msgid "<Last timer location>"
 msgstr "<Место последнего таймера>"
 
 msgid "<unknown>"
-msgstr "<неизвестный>"
+msgstr "<неизвестно>"
 
 msgid "=NO STREAM\n"
 msgstr "=НЕТ СТРИМА\n"
@@ -2417,7 +2417,7 @@ msgid "DVB Subtitles PID & lang"
 msgstr "DVB субтитры PID & язык"
 
 msgid "DVB driver version: "
-msgstr "DVB driver version: "
+msgstr "Drivers: "
 
 msgid "DVB subtitle black transparency"
 msgstr "Прозрачность черных DVB субтитров"
@@ -3159,7 +3159,7 @@ msgid "Enigma debug level: %d\n"
 msgstr "Enigma debug level: %d\n"
 
 msgid "Enigma version: "
-msgstr "Enigma version: "
+msgstr "Enigma: "
 
 msgid "Enigma2 skin selector"
 msgstr "Выбор скинов Enigma2"
@@ -3736,7 +3736,7 @@ msgid "G"
 msgstr "G"
 
 msgid "GStreamer version: "
-msgstr "GStreamer version: "
+msgstr "GStreamer: "
 
 msgid "GUI Settings"
 msgstr "Настройки GUI"
@@ -4497,7 +4497,7 @@ msgid "Kenya"
 msgstr "Kenya"
 
 msgid "Kernel version: "
-msgstr "Kernel version: "
+msgstr "Kernel: "
 
 msgid "Key Events"
 msgstr "Ключ событий"
@@ -6279,7 +6279,7 @@ msgid "Python frontend for /tmp/mmi.socket"
 msgstr "Python интерфейс для /tmp/mmi.socket"
 
 msgid "Python version: "
-msgstr "Python version: "
+msgstr "Python: "
 
 msgid "Qatar"
 msgstr "Qatar"
@@ -9274,7 +9274,7 @@ msgid "Universal LNB"
 msgstr "Универсальный LNB"
 
 msgid "Unknown"
-msgstr "Неизвестный"
+msgstr "Неизвестно"
 
 msgid "Unmark service as dedicated 3D service"
 msgstr "Удалить маркировку сервиса как 3D сервис"
@@ -11413,7 +11413,7 @@ msgid "undefined"
 msgstr "неопределено"
 
 msgid "unknown"
-msgstr "неизвестный"
+msgstr "неизвестно"
 
 msgid "unknown error"
 msgstr "неизвестная ошибка"
@@ -11530,5 +11530,5 @@ msgstr " мин"
 # Swap
 
 msgid "Swap Manager"
-msgstr "Менеджер Swap"
+msgstr "Swap Manager"
 

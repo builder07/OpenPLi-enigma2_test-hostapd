@@ -10,5 +10,9 @@ if HAVE_TEMPFANCONTROL
 SUBDIRS += TempFanControl
 endif
 
+if ustym4kpro
+SUBDIRS += WirelessAccessPoint
+endif
+
 install_PYTHON =	\
 	__init__.py

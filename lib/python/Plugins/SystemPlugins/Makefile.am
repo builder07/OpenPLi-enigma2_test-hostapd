@@ -10,7 +10,7 @@ if HAVE_TEMPFANCONTROL
 SUBDIRS += TempFanControl
 endif
 
-if ustym4kpro
+if USTYM4KPRO
 SUBDIRS += WirelessAccessPoint
 endif
 
